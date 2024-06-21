@@ -16,9 +16,8 @@ Celestia is an AI-powered platform that allows users to explore space, create mu
 ## Technology Stack
 
 - **Front-end**: React
-- **Back-end**: Flask
+- **Back-end**: Flask, Python
 - **Machine Learning Models**: Pre-trained language models and music generation models
-- **Database**: SQL
 
 ## Getting Started
 
