@@ -32,3 +32,5 @@ Celestia is an AI-powered platform that allows users to explore space, create mu
    ```bash
    git clone https://github.com/seenusnehil/celestia.git
    cd celestia
+
+-------- WORK IN PROGRESS --------
